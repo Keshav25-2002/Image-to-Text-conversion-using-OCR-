@@ -15,4 +15,4 @@ pytesseract
 
 matplotlib
 
-re
+regular expression 
